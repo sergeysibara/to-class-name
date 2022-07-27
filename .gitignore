@@ -1,0 +1,14 @@
+build
+
+# Dependency directories
+node_modules
+
+# misc
+.env
+.codesandbox
+
+# WebStorm
+.idea
+
+# VSCode
+.vscode
